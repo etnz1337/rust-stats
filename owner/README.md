@@ -1,0 +1,2 @@
+# owner component in my angular project.
+##### this is just a component I generated. This one is used for showing data of a singular user, and not a list of them, (more then 1) if such I would of used an array like *ngFor=""

@@ -1,0 +1,27 @@
+h2, h3 {
+    text-align: center;   
+}
+
+ul, li {    
+    list-style-type: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+li {
+background: rgb(68, 56, 231);
+border-radius: 8px;
+padding: 20px;
+margin-bottom: 8px;
+}
+
+.content {
+    padding: 1px 0px 0px 1px; // some padding
+    // // border: 1px black solid; // temp
+    // margin-left: -40px; // left 40px
+    // margin-top: 90px; // down 90 px
+}
